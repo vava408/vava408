@@ -4,6 +4,7 @@
 - 💞️ I'm learn JS HTML CSS
 
 ![Statistiques GitHub de vava408](https://github-readme-stats.vercel.app/api?username=vava408&show_icons=true&theme=radical)
+![Répartition des langages](https://github-readme-stats.vercel.app/api/top-langs/?username=vava408&layout=compact&theme=radical)
 
 
 <!---
