@@ -15,8 +15,8 @@ Je suis passionné par la création de jeux vidéo, le développement web et la 
 
 ## 🔥 Mes projets récents
 
-- **[SAE1.01](#)** : Un jeu de plateforme développé en **Java**.
-- **[Airbot](#)** : Un projet utilisant **JavaScript**.
+- **[SAE1.01](https://github.com/vava408/SAE1.01)** : Un jeu de plateforme développé en **Java**.
+- **[Airbot](https://github.com/vava408/Airbot)** : Un projet utilisant **JavaScript**.
 
 ---
 
@@ -37,8 +37,8 @@ I’m passionate about video game creation, web development, and cybersecurity. 
 
 ## 🔥 My Recent Projects
 
-- **[SAE1.01](#)**: A platformer game developed in **Java**.
-- **[Airbot](#)**: A project using **JavaScript**.
+- **[SAE1.01](https://github.com/vava408/SAE1.01)**: A platformer game developed in **Java**.
+- **[Airbot](https://github.com/vava408/Airbot)**: A project using **JavaScript**.
 
 ---
 
