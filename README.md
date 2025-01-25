@@ -2,6 +2,7 @@
 - 👀 I'm interested in game creation, web development and cybersecurity
 - 🌱 I’m currently learning JAVA PHP C++
 - 💞️ I'm learn JS HTML CSS
+- 🎓 I'm in BUT Informatique
 
 ![Statistiques GitHub de vava408](https://github-readme-stats.vercel.app/api?username=vava408&show_icons=true&theme=radical)
 ![Répartition des langages](https://github-readme-stats.vercel.app/api/top-langs/?username=vava408&layout=compact&theme=radical)
