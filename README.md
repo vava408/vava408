@@ -6,7 +6,6 @@ Je suis passionné par la création de jeux vidéo, le développement web et la 
 
 - **Java**
 - **PHP**
-- **C++**
 - **JavaScript**
 - **HTML**
 - **CSS**
@@ -28,7 +27,6 @@ I’m passionate about video game creation, web development, and cybersecurity. 
 
 - **Java**
 - **PHP**
-- **C++**
 - **JavaScript**
 - **HTML**
 - **CSS**
