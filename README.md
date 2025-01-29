@@ -49,8 +49,8 @@ I’m passionate about video game creation, web development, and cybersecurity. 
 
 ## 📫 Contact
 
-**[Français]** : Si vous souhaitez collaborer ou discuter de mes projets, vous pouvez me contacter à [votre.email@example.com].  
-**[English]** : If you want to collaborate or discuss my projects, feel free to reach out to me at [your.email@example.com].
+**[Français]** : Si vous souhaitez collaborer ou discuter de mes projets, vous pouvez me contacter à [].  
+**[English]** : If you want to collaborate or discuss my projects, feel free to reach out to me at [].
 
 Merci d’avoir visité mon profil ! / Thank you for visiting my profile! 🚀
 
