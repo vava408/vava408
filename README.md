@@ -4,8 +4,8 @@
 
 Je suis passionné par la création de jeux vidéo, le développement web et la cybersécurité. Mon objectif est de développer des projets qui allient créativité et performance. Actuellement, j'explore plusieurs langages de programmation pour élargir mes compétences :
 
-- **Java**
-- **PHP**
+- **Java (en exploration)**
+- **PHP  (en exploration)**
 - **JavaScript**
 - **HTML**
 - **CSS**
@@ -16,6 +16,7 @@ Je suis passionné par la création de jeux vidéo, le développement web et la 
 
 - **[SAE1.01](https://github.com/vava408/SAE1.01)** : Un jeu de plateforme développé en **Java**.
 - **[Airbot](https://github.com/vava408/Airbot)** : Un projet utilisant **JavaScript**.
+- **[PortFolio](https://github.com/vava408/Portfolio)** : Un projet utilisant **HTML CSS**. [Site](https://portfolio.airbot.adkynet.eu/)
 
 ---
 
@@ -25,8 +26,8 @@ Je suis passionné par la création de jeux vidéo, le développement web et la 
 
 I’m passionate about video game creation, web development, and cybersecurity. My goal is to develop projects that combine creativity and performance. Currently, I’m exploring several programming languages to broaden my skills:
 
-- **Java**
-- **PHP**
+- **Java (in exploration)**
+- **PHP  (in exploration)**
 - **JavaScript**
 - **HTML**
 - **CSS**
@@ -49,8 +50,8 @@ I’m passionate about video game creation, web development, and cybersecurity. 
 
 ## 📫 Contact
 
-**[Français]** : Si vous souhaitez collaborer ou discuter de mes projets, vous pouvez me contacter à [].  
-**[English]** : If you want to collaborate or discuss my projects, feel free to reach out to me at [].
+**[Français]** : Si vous souhaitez collaborer ou discuter de mes projets, vous pouvez me contacter via Discord avec vava4959.  
+**[English]** : If you want to collaborate or discuss my projects, feel free to reach out to me whith Discord vava4859.
 
 Merci d’avoir visité mon profil ! / Thank you for visiting my profile! 🚀
 
