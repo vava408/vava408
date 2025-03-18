@@ -17,6 +17,9 @@ Je suis passionné par la création de jeux vidéo, le développement web et la 
 - **[SAE1.01](https://github.com/vava408/SAE1.01)** : Un jeu de plateforme développé en **Java**.
 - **[Airbot](https://github.com/vava408/Airbot)** : Un projet utilisant **JavaScript**.
 - **[PortFolio](https://github.com/vava408/Portfolio)** : Un projet utilisant **HTML CSS**. [Site](https://portfolio.airbot.adkynet.eu/)
+- **[AirSite](https://github.com/vava408/Airsite)** : Un projet utilisant **HTML CSS PHP JS SQL**. [Site](https://airbot.adkynet.eu/)
+- **[WebSocket](https://github.com/vava408/WebSocket)** : Un projet utilisant **JAVA**.
+
 
 ---
 
@@ -39,6 +42,8 @@ I’m passionate about video game creation, web development, and cybersecurity. 
 - **[SAE1.01](https://github.com/vava408/SAE1.01)**: A platformer game developed in **Java**.
 - **[Airbot](https://github.com/vava408/Airbot)**: A project using **JavaScript**.
 - **[PortFolio](https://github.com/vava408/Portfolio)**: A project using **HTML CSS**. [Site](https://portfolio.airbot.adkynet.eu/)
+- - **[AirSite](https://github.com/vava408/Airsite)** : A project using **HTML CSS PHP JS SQL**. [Site](https://airbot.adkynet.eu/)
+- **[WebSocket](https://github.com/vava408/WebSocket)** :  A project using **JAVA**.
 - 
 
 ---
