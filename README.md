@@ -2,7 +2,7 @@
 
 ## 🌍 À propos de moi
 
-Je suis passionné par la création de jeux vidéo, le développement web et la cybersécurité. Mon objectif est de développer des projets qui allient créativité et performance. Actuellement, j'explore plusieurs langages de programmation pour élargir mes compétences :
+Je suis passionné par la création de jeux vidéo, le développement web et la cybersécurité. Mon objectif est de développer des projets qui allient créativité et performance. Actuellement en BUT Informatique, j'explore plusieurs langages de programmation pour élargir mes compétences :
 
 - **Java (en exploration)**
 - **PHP  (en exploration)**
@@ -27,7 +27,7 @@ Je suis passionné par la création de jeux vidéo, le développement web et la 
 
 ## 🌍 About Me
 
-I’m passionate about video game creation, web development, and cybersecurity. My goal is to develop projects that combine creativity and performance. Currently, I’m exploring several programming languages to broaden my skills:
+I’m passionate about video game creation, web development, and cybersecurity. My goal is to develop projects that combine creativity and performance.  Currently in BUT Informatics, I’m exploring several programming languages to broaden my skills:
 
 - **Java (in exploration)**
 - **PHP  (in exploration)**
