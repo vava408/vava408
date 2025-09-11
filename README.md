@@ -6,6 +6,7 @@ Je suis passionné par la création de jeux vidéo, le développement web et la 
 
 - **Java (en exploration)**
 - **PHP  (en exploration)**
+- **React Native  (en exploration)**
 - **JavaScript**
 - **HTML**
 - **CSS**
@@ -31,6 +32,7 @@ I’m passionate about video game creation, web development, and cybersecurity. 
 
 - **Java (in exploration)**
 - **PHP  (in exploration)**
+- **React Native  (in exploration)**
 - **JavaScript**
 - **HTML**
 - **CSS**
