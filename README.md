@@ -50,9 +50,10 @@ I’m passionate about video game creation, web development, and cybersecurity. 
 ---
 
 ## 📊 Mes Statistiques / My Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=vava408&show_icons=true&theme=radical&hide=stars&count_private=true)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vava408&show_icons=true&theme=radical&hide=stars&count_private=true&cache_seconds=1800)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vava408&layout=compact&theme=radical&cache_seconds=1800)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vava408&layout=compact&theme=radical)
+
 
 
 ---
